@@ -1,0 +1,14 @@
+{
+  "name": "once-single-use-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ONCE 一次性商店 — a normal-looking shop where every URL works exactly once.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
